@@ -1,0 +1,233 @@
+<html>
+<head>
+	<link rel="icon" href="images/favicon.png">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>VRChat Kmart: Credit Card Rewards</title>
+</head>
+<!-- Client side map -->
+<map name="navmap">
+	<area shape="RECT" coords="0,00,100,20" href="../xtracred/xtracred-stm.html">
+	<area shape="RECT" coords="0,21,100,40" href="../locator/locator-stm.html">
+	<area shape="RECT" coords="0,41,100,63" href="../thisweek/thisweek-stm.html">
+	<area shape="RECT" coords="0,64,100,83" href="/index_stm.html">
+	<area shape="RECT" coords="0,84,100,103" href="../headline/headline-stm.html">
+	<area shape="RECT" coords="0,104,100,121" href="../comments/comment-stm.html">
+	<area shape="RECT" coords="0,122,100,144" href="../wndwshop/wndwshop-stm.html">
+</map>
+<body background="../images/back.gif" bgcolor="#FFFFFF" link="#FF0000" vlink="#41A3A9" alink="#41A3A9" text="#1F1F0B">
+<table cellpadding="0" cellspacing="0" border="0">
+	<td valign="top" align="left" width="120" rowspan="2">
+		<table border="0">
+		<td valign="top" align="left">
+			<!--  Kmart logo and navigator -->
+   	<tr>
+		<td>
+			<!-- 1st level of navigation -->
+			<a href="../index.html">
+			<img src="../images/todani2.gif" alt="Kmart Logo" width="100" height="79" border="0"></a>
+			<img src="../images/blank.gif" width="12">
+			<a href="../maps/navblack-map.html">
+			<img src="../images/navblack.gif" width="100" height="144" align="right" ismap usemap="#navmap" border="0"></a>
+			<br>
+		</td>
+	</tr>
+		</td>
+		<tr>
+			<td align="right" valign="top">
+			<!-- 2nd level of navigation -->
+			<!-- Text navigator for Credit Card -->
+			<br>
+<img src="../images/blank.gif" height="7">
+<font size="2">
+<a href="../xtracred/prodinfo-stm.html">Product Info</a>
+<img src="../images/blank.gif" width="7" height="17"><br>
+<a href="../xtracred/rewards-stm.html">Kmart Rewards</a>
+<img src="../images/blank.gif" width="7" height="17"><br>
+<a href="../xtracred/apply-stm.html">How to Apply</a>
+<img src="../images/blank.gif" width="7" height="17"><br>
+</font>
+			</td>
+		</tr>
+		</table>
+	</td>
+	<td>
+	<table border="0">
+	<td align="left">
+		<img src="../images/topper.gif" width="444" height="150" hspace="20">
+	<ol>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Rewards are earned by making eligible purchases with the Kmart Credit 
+	Card issued by Beneficial National Bank USA (BNB USA).<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Cardholders will have the opportunity to earn Kmart Rewards
+	on eligible purchase made at all U.S. Kmart and Super Kmart stores.  Kmart 
+	Rewards will be awarded as follows:
+	<p>
+	<center><table border="1" cellpadding="2">
+		<td>$500 - $999</td><td>3% Rewards</td><tr>
+		<td>$1,000 - $1,499</td><td>4% Rewards</td><tr>
+		<td>$1,500 - $1,999</td><td>5% Rewards</td><tr>
+		<td>$2,000 and over</td><td>6% Rewards</td><tr>
+		</table>
+	</center><p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Rewards will accumulate on an annual basis starting with the first 
+	day following the cardholder's October billing cycle date.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Reward Dollars, in the amount of the Kmart Rewards accumulated, will be issued 
+	within four weeks following the cardholder's October billing cycle date, and the corresponding
+	Kmart Rewards will be deducted on the cardholder's October billing cycle date.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Reward Dollars will not be issued if there is less than 1 Kmart 
+	Reward accumulated, in which case the total will be carried over to the 
+	following annual period.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Reward Dollars are redeemable for merchandise only at U.S. Kmart and Super 
+	Kmart stores.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Reward Dollars will be valid for one year from the date they are issued.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Certain merchandise purchases are not eligible for credit toward earning Kmart 
+	Rewards.  Ineligible items are: food (including candy, beverages and prepared food), 
+	alcohol, tobacco products, hunting and fishing licenses, lottery tickets and purchases 
+	at Penske Auto Centers.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Rewards are earned on the net amount of eligible purchases (not including tax) 
+	less eligible returns.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Reward Dollars cannot be used as payment to a credit card account or to make 
+	layaway payments.  Certain merchandise cannot be purchased with Kmart Reward Dollars: 
+	alcohol, tobacco products, fishing and hunting licenses, gift certificates, lottery 
+	tickets, prescription drugs and purchases at Penske Auto Centers.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	Kmart Reward Dollars and Rewards are not assignable or transferable, and Kmart 
+	Reward Dollars will not be replaced if lost or stolen.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	BNB USA and Kmart reserve the right to disqualify a cardholder from 
+	participation in the Kmart Rewards program (and to eliminate all rewards) without 
+	any further obligation.<p></li>
+	<font size="3" color="#41A3A9"><b><li></b></font>
+	BNB USA and Kmart reserve the right to add, modify or delete the Terms and 
+	Conditions (including terminating the program or eliminating the right to participate) 
+	at any time, without notice.</li>
+	</ol>
+					<center>
+			<table border="0" cellpadding="7">
+			<td valign="Bottom" align="Center">
+				<a href="https://youtu.be/oShhpPmYcr0">
+				<img src="../images/kmartb2.gif" alt="Kmart Credit Card Video Clip" border="0" width="96"></a>
+			</td>
+			<td valign="Bottom">
+				<a href="http://www.vrchatkmart.com/xtracred/prodinfo-stm.html">
+				<img src="../images/prodinfob2.gif" alt="Product Info Button" border="0" width="96"></a>
+			</td>
+			<td valign="Bottom">
+				<a href="http://www.vrchatkmart.com/xtracred/rewards-stm.html">
+				<img src="../images/rewardsb2.gif" alt="Kmart Rewards Button" border="0" width="96"></a>
+			</td>
+			<td valign="Bottom">
+				<a href="http://www.vrchatkmart.com/xtracred/apply-stm.html">
+				<center><img src="../images/applyb2.gif" alt="How to Apply" border="0" width="45" height="96"></center></a>
+			</td>
+			<tr>
+			<td>
+				<a style="text-decoration:none" href="https://youtu.be/oShhpPmYcr0">
+				<center>YouTube Video</center></a>
+			</td>
+			<td>
+				<a style="text-decoration:none" href="http://www.vrchatkmart.com/xtracred/prodinfo-stm.html">
+				<center>Product Info</center></a>
+			</td>	
+			<td>
+				<a style="text-decoration:none" href="http://www.vrchatkmart.com/xtracred/rewards-stm.html">
+				<center>Kmart Rewards</center></a>
+			</td>
+			<td>
+				<a style="text-decoration:none" href="http://www.vrchatkmart.com/xtracred/apply-stm.html">
+				<center>How to Apply</center></a>
+			</td>
+			</table>
+			</center>
+	</td>
+	</table>
+	</td>
+<tr>
+<!-- Main Text Navigator -->
+<!-- Text navigator -->
+<tr>
+	<td>
+	</td>
+	<td align="LEFT">
+		<center>
+		<table border="0" cellpadding="2">
+		<tr>
+			<td>
+				<font size="1"><b>
+				<a href="../index_stm.html">Home</a>
+				</font></b>
+			</td>
+			<td>
+				<font size="1"><b>
+				<a href="../xtracred/xtracred-stm.html">Extra Credit</a>
+				</font></b>
+			</td>
+			<td>
+				<font size="1"><b>
+				<a href="../locator/locator-stm.html">Find Us</a>
+				</font></b>
+			</td>
+			<td>
+				<font size="1"><b>
+				<a href="../thisweek/thisweek-stm.html">Sale Circular</a>
+				</font></b>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<font size="1"><b>
+				<a href="/">About Kmart</a>
+				</font></b>
+			</td>
+			<td>
+				<font size="1"><b>
+				<a href="../headline/headline-stm.html">Headlines</a>
+				</font></b>
+			</td>
+			<td>
+				<font size="1"><b>
+				<a href="../comments/comment-stm.html">Comments</a> 
+				</font></b>
+			</td>
+			<td>
+				<font size="1"><b>
+				<a href="../wndwshop/wndwshop-stm.html">Window Shop</a>
+				</font></b>
+			</td>
+		</tr>
+		</table>
+		</center>
+	</td>
+</tr>
+<!-- Copy Right -->
+<tr>
+	<td>
+	</td>
+	<td align="LEFT">
+		<center>
+		<table border="0" cellpadding="2">
+		<tr>
+			<td colspan="4">
+				<font size="1"><b>
+				<a href="../copy-stm.html">
+				&COPY; 2022 VRChat Kmart Corporation. Not affiliated with Tranformco.<p></a>
+				</font></b>
+			</td>
+		</tr>
+		</table>
+		</center>
+	</td>
+</tr>
+</tr>
+</table>
+</body>
+</html>
