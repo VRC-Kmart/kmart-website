@@ -9,6 +9,11 @@
 .redHeader {
     color: #D03A40;
 }
+
+.BackgroundImage{
+    background-repeat: repeat-y;
+}
+
 /* * {
     font-size: 3em;
 } */
