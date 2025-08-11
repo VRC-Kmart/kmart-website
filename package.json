@@ -8,6 +8,6 @@
   "main": "index.js",
   "scripts": {
 
-    "build": "cp -r * build"
+    "build": "mkdir build && cp -r * build"
   }
 }
