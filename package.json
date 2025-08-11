@@ -6,8 +6,7 @@
   "author": "",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": {
-
-    "build": "ls"
+  "scripts": {  
+  "build": "mkdir -p build && rsync -av --exclude build ./ build/"
   }
 }
