@@ -17,3 +17,10 @@
 /* * {
     font-size: 3em;
 } */
+
+.judySidebar {
+    float: right;
+    position: absolute;
+    top: 4em;
+    width: 100%;
+}
