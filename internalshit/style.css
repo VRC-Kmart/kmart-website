@@ -24,3 +24,8 @@
     top: 4em;
     width: 100%;
 }
+
+.comicSans {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 0.95em;
+}
